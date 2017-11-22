@@ -1,0 +1,10 @@
+1- Crear un nou projecte amb NeatBeans, Java Project, Y en el main agregas el archiu descargat.
+5-git checkout master ; git log
+10- git checkout master ; git merge branca00.
+13- git checkout -b branca01 ; git add Prjava02.java ; git status
+
+
+6- No perque no estic en la branca on he fet el canvi.
+
+7- Si, perque ya estic en la branca on he fet el canvi.
+
